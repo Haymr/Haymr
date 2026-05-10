@@ -35,10 +35,5 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haymr&show_icons=true&theme=radium&hide_border=true" alt="Haymr's GitHub Stats" />
-</p>
-
 ---
 *Feel free to explore my repositories below to see my work in action.*
